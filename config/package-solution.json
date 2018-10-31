@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spo-js-client-side-solution",
+    "id": "a79cf72b-8fe8-4cce-85c8-8f4f8855e080",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/spo-js.sppkg"
+  }
+}
